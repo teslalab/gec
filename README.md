@@ -1,2 +1,2 @@
 # GEC
-![](/img/bottom.png)
+![](/img/bottom.PNG)
