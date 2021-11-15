@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=GEC.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=GEC.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Motores.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Motores.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GEC.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ESP32.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GEC.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=USB-SERIAL.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USB-SERIAL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GEC.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=3V3_5V.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=3V3_5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
