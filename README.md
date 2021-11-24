@@ -1,7 +1,6 @@
 
-![](/bottom.PNG)
 
-| Italic             |  Block letters |
+| ![](/bottom.PNG)             |  ![](/bottom.PNG) |
 :-------------------------:|:-------------------------:
 ![](img/1.PNG)  |  ![](img/2.PNG)
 ![](img/3.PNG)  |  ![](img/4.PNG)
