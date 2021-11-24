@@ -7,6 +7,7 @@
 
 https://github.com/teslalab/gec/blob/main/img/GEC%20Chasis%20Oficial.mp4
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 # Instalación Tarjeta GEC
 
 Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
