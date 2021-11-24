@@ -5,13 +5,7 @@
 ![](img/1.PNG)  |  ![](img/2.PNG)
 ![](img/3.PNG)  |  ![](img/4.PNG)
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
 
 # Instalación Tarjeta GEC
 
