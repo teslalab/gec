@@ -74,7 +74,7 @@ Nombre | GPIO
 --- | --- 
 MODO 1 | 27
 MODO 2 | 14
-MODO 3 | Siempre encendido
+MODO 3 | Siempre ON
 
 ### Otras funciones
 Nombre | GPIO 
