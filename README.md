@@ -1,4 +1,4 @@
-# GEC
+
 ![](/bottom.PNG)
 
 # Instalación Tarjeta GEC
