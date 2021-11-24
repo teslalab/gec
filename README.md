@@ -12,7 +12,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- Luego precionamos la opción ***OK*** y automaticamente se cerrara la ventana.
 3. Debemos ir a la pestaña ***Herramientas***->***Placa***->***Gestor de tarjetas***.
 	- Colocamos en la barra de busqueda ***ESP32***.
-	- Seleccionamos la opción que nos muestre ***ESP32***.
+	- Seleccionamos la opción que nos muestre ***NodeMCU-32S***.
 	- Instalamos y luego precionamos la opción de ***Cerrar***.
 
 Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.	 
