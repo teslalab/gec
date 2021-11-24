@@ -64,6 +64,14 @@ QRE1 | 36
 QRE2 | 39
 QRE3 | 34
 
+### DIP Switch
+Nombre | GPIO 
+--- | --- 
+MODO 1 | 27
+MODO 2 | 14
+MODO 3 | 12
+
+
 ### Otras funciones
 Nombre | GPIO 
 --- | --- 
