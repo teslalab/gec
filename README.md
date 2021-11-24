@@ -5,7 +5,7 @@
 ![](img/1.PNG)  |  ![](img/2.PNG)
 ![](img/3.PNG)  |  ![](img/4.PNG)
 
-![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
+![](https://youtu.be/zNzZ1PfUDNk)
 
 # Instalación Tarjeta GEC
 
