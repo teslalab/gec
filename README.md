@@ -7,7 +7,6 @@
 
 ![](https://www.youtube.com/watch?v=502JTFO6-ao&ab_channel=AngelDanielIsidroRodriguez)
 
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
 
 # Instalación Tarjeta GEC
 
