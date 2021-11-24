@@ -5,8 +5,7 @@
 ![](img/1.PNG)  |  ![](img/2.PNG)
 ![](img/3.PNG)  |  ![](img/4.PNG)
 
-![](https://www.youtube.com/watch?v=502JTFO6-ao&ab_channel=AngelDanielIsidroRodriguez)
-
+https://github.com/teslalab/gec/blob/main/img/GEC%20Chasis%20Oficial.mp4
 
 # Instalación Tarjeta GEC
 
