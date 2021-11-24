@@ -5,7 +5,7 @@
 ![](img/1.PNG)  |  ![](img/2.PNG)
 ![](img/3.PNG)  |  ![](img/4.PNG)
 
-![](https://youtu.be/zNzZ1PfUDNk)
+![](https://www.youtube.com/watch?v=502JTFO6-ao&ab_channel=AngelDanielIsidroRodriguez)
 
 # Instalación Tarjeta GEC
 
